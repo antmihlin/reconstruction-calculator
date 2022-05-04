@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# Reconstruction calculator
+
+It is a tool to calculate house reconstruction costs. 
+User has to input available dimensions and set what kind of reconstruction will be performed.
+
+## How to use:
+
+ - Add rooms
+ - Set features
+ - Set costs of materials
+ - Set costs of work
+ - After all set the application will display total cost
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
